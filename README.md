@@ -1,7 +1,7 @@
 ### Hi there 👋
 I have 15 years of experience in IT. (7 years as a system administrator and 8 years as a systems analyst). .<br>
 Currently, I work as an analyst in the data preparation and processing department at the stock exchange.<br>
-#### Education degree:
+#### Degree:
 South-West State University, Kursk (formerly Kursk State Technical University)<br>  
 I graduated with a degree in "Automation and Computer Engineering" and specialized in "Biotechnical and Medical Apparatuses and Systems." in 1996.<br>
 My specialty is Systems Engineering.
