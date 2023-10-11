@@ -1,6 +1,10 @@
 # Hi there 👋
 _I have 15 years of experience in IT. (7 years as a system administrator and 8 years as a systems analyst).<br>
 Currently, I work as an analyst in the data preparation and processing department at the stock exchange._
+--- --- --- 
+## Key skills:
+Python, SQL, OOP, Git, Selenium, Pytest, Pandas, Numpy, Matplotlib, Power BI<br>
+English: Advanced.  
 ## Education degree:
 ### South-West State University, Kursk (formerly Kursk State Technical University)  
 _I graduated with a degree in "Automation and Computer Engineering" and specialized in "Biotechnical and Medical Apparatuses and Systems" in 1996._  
@@ -18,9 +22,7 @@ https://drive.google.com/file/d/1fcHRBnXHdWQ7eE8NOGIHsYcNxzmwzUOt/view?usp=shari
 #### Certificates of course completion:<br>
 https://stepik.org/users/373663839/profile
 --- --- --- 
-## Key skills:
-Python, SQL, OOP, Git, Selenium, Pytest, Pandas, Numpy, Matplotlib, Power BI<br>
-English: Advanced.
+
 
 
 
