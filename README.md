@@ -4,7 +4,6 @@ Currently, I work as an analyst in the data preparation and processing departmen
 --- --- --- 
 ## Key skills:
 Python, SQL, OOP, Git, Selenium, Pytest, Pandas, Numpy, Matplotlib, Power BI
-English: Advanced.  
 ## Education degree:  
 ### South-West State University, Kursk (formerly Kursk State Technical University)  
 _I graduated with a degree in "Automation and Computer Engineering" and specialized in "Biotechnical and Medical Apparatuses and Systems" in 1996._  
