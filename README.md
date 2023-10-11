@@ -14,7 +14,8 @@
 Анализ данных на Python.
 РАНХиГС 
 Программирование на Python. Анализ данных с использованием Pandas, Numpy, Matplotlib и Seaborn.
-Удостоверение об окончании:
+Год окончания: 2023
+Удостоверение:
 https://drive.google.com/file/d/1fcHRBnXHdWQ7eE8NOGIHsYcNxzmwzUOt/view?usp=sharing
 
 
