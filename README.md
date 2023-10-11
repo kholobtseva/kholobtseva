@@ -20,7 +20,7 @@ https://stepik.org/users/373663839/profile
 --- --- --- 
 ## Key skills:
 Python, SQL, OOP, Git, Selenium, Pytest, Pandas, Numpy, Matplotlib, Power BI<br>
-English: Advanced
+English: Advanced.
 
 
 
