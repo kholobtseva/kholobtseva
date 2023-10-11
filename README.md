@@ -10,13 +10,14 @@ Data Analysis with Python.<br>
 RANEPA (Russian Presidential Academy of National Economy and Public Administration).<br>
 Python Programming. Data Analysis using Pandas, Numpy, Matplotlib, and Seaborn.<br>
 Year of completion: 2023.<br> 
-<br>
 Certificate:<br>
 https://drive.google.com/file/d/1fcHRBnXHdWQ7eE8NOGIHsYcNxzmwzUOt/view?usp=sharing
 #### Online courses:<br>
 Profile on Stepik.org:<br>
 Certificates of course completion:<br>
 https://stepik.org/users/373663839/profile<br>
+####Key skills:
+Python, SQL, OOP, Git, Selenium, Pytest, Pandas, Numpy, Matplotlib, Power BI
 
 
 
