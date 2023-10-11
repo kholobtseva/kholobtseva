@@ -1,22 +1,21 @@
 ### Hi there 👋
-Стаж работы в IT 15 лет. (7 лет в должности системного администратора и 8 лет в должности системного аналитика)<br>
-В настоящее время работаю аналитиком в отделе подготовки и обработки информации.<br>
-#### Образование высшее:
-Юго-Западный государственный университет, Курск (в 1996г. Курский Государственный Технический Университет)<br>
-Автоматика и вычислительная техника, Биотехнические и медицинские аппараты и системы.<br>
-Инженер-системотехник.<br>
-Год окончания: 1996<br>
-#### Курсы повышения квалификации:
-Анализ данных на Python.<br>
-РАНХиГС<br> 
-Программирование на Python. Анализ данных с использованием Pandas, Numpy, Matplotlib и Seaborn.<br>
-Год окончания: 2023<br>
+I have 15 years of experience in IT. (7 years as a system administrator and 8 years as a systems analyst). .<br>
+Currently, I work as an analyst in the data preparation and processing department at the stock exchange.<br>
+#### Education degree:
+South-West State University, Kursk (formerly Kursk State Technical University)<br>  
+I graduated with a degree in "Automation and Computer Engineering" and specialized in "Biotechnical and Medical Apparatuses and Systems." in 1996.<br>
+My specialty is Systems Engineering.
+#### Professional development courses:
+Data Analysis with Python.<br>
+RANEPA (Russian Presidential Academy of National Economy and Public Administration).<br>
+Python Programming. Data Analysis using Pandas, Numpy, Matplotlib, and Seaborn.<br>
+Year of completion: 2023.<br> 
 <br>
-Удостоверение:<br>
+Certificate:<br>
 https://drive.google.com/file/d/1fcHRBnXHdWQ7eE8NOGIHsYcNxzmwzUOt/view?usp=sharing
-#### Онлайн курсы:<br>
-Профиль на Stepik.org<br>
-Сертификаты о прохождении курсов:<br>
+#### Online courses:<br>
+Profile on Stepik.org:<br>
+Certificates of course completion:<br>
 https://stepik.org/users/373663839/profile<br>
 
 
