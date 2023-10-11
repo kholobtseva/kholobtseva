@@ -17,7 +17,8 @@ Profile on Stepik.org:<br>
 Certificates of course completion:<br>
 https://stepik.org/users/373663839/profile<br>
 #### Key skills:
-Python, SQL, OOP, Git, Selenium, Pytest, Pandas, Numpy, Matplotlib, Power BI
+Python, SQL, OOP, Git, Selenium, Pytest, Pandas, Numpy, Matplotlib, Power BI<br>
+English: Advanced
 
 
 
