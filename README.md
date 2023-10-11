@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1fcHRBnXHdWQ7eE8NOGIHsYcNxzmwzUOt/view?usp=shari
 Profile on Stepik.org:<br>
 Certificates of course completion:<br>
 https://stepik.org/users/373663839/profile<br>
-####Key skills:
+#### Key skills:
 Python, SQL, OOP, Git, Selenium, Pytest, Pandas, Numpy, Matplotlib, Power BI
 
 
