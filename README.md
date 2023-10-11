@@ -1,5 +1,5 @@
 ### Hi there 👋
-I have 15 years of experience in IT. (7 years as a system administrator and 8 years as a systems analyst). .<br>
+I have 15 years of experience in IT. (7 years as a system administrator and 8 years as a systems analyst).<br>
 Currently, I work as an analyst in the data preparation and processing department at the stock exchange.<br>
 #### Education degree:
 South-West State University, Kursk (formerly Kursk State Technical University)<br>  
