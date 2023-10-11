@@ -17,7 +17,7 @@ Year of completion: 2023.
 ### Certificate:  
 https://drive.google.com/file/d/1fcHRBnXHdWQ7eE8NOGIHsYcNxzmwzUOt/view?usp=sharing
 --- --- ---
-### Online courses:  
+## Online courses:  
 #### Profile on Stepik.org:  
 #### Certificates of course completion:  
 https://stepik.org/users/373663839/profile
