@@ -4,16 +4,16 @@ Currently, I work as an analyst in the data preparation and processing departmen
 --- --- --- 
 ## Key skills:
 *Python, SQL, OOP, Git, Selenium, Pytest, Pandas, Numpy, Matplotlib, Power BI*<br>\
-English: *Advanced*
+**English:**  *Advanced*
 ## Education degree:  
 ### South-West State University, Kursk (formerly Kursk State Technical University)  
-_I graduated with a degree in "Automation and Computer Engineering" and specialized in "Biotechnical and Medical Apparatuses and Systems" in 1996._  
-_My specialty is Systems Engineering._ 
+_I graduated with a degree in **"Automation and Computer Engineering"** and specialized in **"Biotechnical and Medical Apparatuses and Systems"** in 1996._  
+_My specialty is **Systems Engineering**._ 
 ## Professional development courses:  
 ### RANEPA (Russian Presidential Academy of National Economy and Public Administration).  
 #### Data Analysis with Python.  
-_Python Programming. Data Analysis using Pandas, Numpy, Matplotlib, and Seaborn._
-Year of completion: 2023.
+_Python Programming. Data Analysis using Pandas, Numpy, Matplotlib, and Seaborn._\
+**Year of completion:**  2023.
 ### Certificate:  
 https://drive.google.com/file/d/1fcHRBnXHdWQ7eE8NOGIHsYcNxzmwzUOt/view?usp=sharing  
 ## Online courses:    
