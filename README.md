@@ -1,5 +1,5 @@
 # Hi there 👋
-_I have 15 years of experience in IT. (7 years as a system administrator and 8 years as a systems analyst).<br>
+_I have 16 years of experience in IT. (7 years as a system administrator and 8 years as a systems analyst and analyst).<br>
 Currently, I work as an analyst in the data preparation and processing department at a stock exchange._
 --- --- --- 
 ## Key skills:
