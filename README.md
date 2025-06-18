@@ -1,6 +1,5 @@
 # Hi there 👋
-_I have 17 years of experience in IT. (7 years as a system administrator and 10 years as a systems analyst and analyst).<br>
-_
+I have 17 years of experience in IT. (7 years as a system administrator and 10 years as a systems analyst and analyst).<br>
 --- --- --- 
 ## Key skills:
 **Python, SQL, OOP, Git, Selenium, Pytest, JMeter, Pandas, Numpy, Matplotlib, Power BI**<br>\
