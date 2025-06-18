@@ -1,6 +1,6 @@
 # Hi there 👋
-_I have 16 years of experience in IT. (7 years as a system administrator and 8 years as a systems analyst and analyst).<br>
-Currently, I work as an analyst in the data preparation and processing department at a stock exchange._
+_I have 17 years of experience in IT. (7 years as a system administrator and 10 years as a systems analyst and analyst).<br>
+_
 --- --- --- 
 ## Key skills:
 **Python, SQL, OOP, Git, Selenium, Pytest, JMeter, Pandas, Numpy, Matplotlib, Power BI**<br>\
