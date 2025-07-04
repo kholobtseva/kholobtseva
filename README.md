@@ -6,7 +6,7 @@ I have 17 years of experience in IT. (7 years as a system administrator and 10 y
 **English:  Advanced**
 ## Education degree:  
 ### South-West State University, Kursk (formerly Kursk State Technical University)  
-_I graduated with a degree in **"Automation and Computer Engineering"** and specialized in **"Biotechnical and Medical Apparatuses and Systems"** in 1996._  
+_I graduated with a degree in **"Automation and Computer Engineering"** and specialized in **"Biotechnical and Medical Apparatuses and Systems"**_  
 _My specialty is **Systems Engineering**._ 
 ## Professional development courses:  
 ### RANEPA (Russian Presidential Academy of National Economy and Public Administration).  
