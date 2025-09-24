@@ -2,8 +2,18 @@
 I have 17 years of experience in IT. (7 years as a system administrator and 10 years as a systems analyst and QA engineer).<br>
 --- --- --- 
 ## Key skills:
-**Python, SQL, OOP, Git, Selenium, Pytest, JMeter, Pandas, Postman, Swagger, Allure TestOps, Charles Proxy, Numpy, Matplotlib, Power BI**<br>\
-**English:  Advanced**
+- Python
+- Selenium
+- Pytest
+-  SQL
+-  Postman
+-  Swagger
+-  Allure TestOps
+-  Charles Proxy
+-  Функциональное тестирование
+-  Регрессионное тестирование
+-  Git<br>
+- English:  Advanced
 ## Education degree:  
 ### South-West State University, Kursk (formerly Kursk State Technical University)  
 _I graduated with a degree in **"Automation and Computer Engineering"** and specialized in **"Biotechnical and Medical Apparatuses and Systems"**_  
