@@ -1,5 +1,6 @@
 # Hi there 👋
-I have 17 years of experience in IT. (7 years as a system administrator and 10 years as a systems analyst and QA engineer).<br>
+I have experience working in large international and Russian companies with strict requirements for quality and data handling. 
+I have worked as a QA Engineer and also have a background as a Systems Analyst and Systems Administrator.<br>
 --- --- --- 
 ## Key skills:
 - Python
@@ -25,10 +26,6 @@ _My specialty is **Systems Engineering**._
 **Year of completion:**  2023.
 ### Certificate:  
 https://drive.google.com/file/d/1fcHRBnXHdWQ7eE8NOGIHsYcNxzmwzUOt/view?usp=sharing  
-## Online courses:    
-#### Profile on Stepik.org:  
-#### Certificates of course completion:  
-https://stepik.org/users/373663839/profile
 --- --- --- 
 
 
